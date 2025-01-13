@@ -1,6 +1,6 @@
 import React from 'react'
 import { Card } from './Card'
-import { cardData } from '../data'
+import {cardData} from '../data'
 
 export  function ProductDisplay() {
   return (
