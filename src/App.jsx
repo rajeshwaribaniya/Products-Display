@@ -1,3 +1,4 @@
+import { ProductDisplay } from "./components"
 
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
 
   return (
     <>
-      <p className="text-yellow-800">Hello from Rajeshwari Baniya!</p>
+      <ProductDisplay />
     </>
   )
 }
