@@ -1,5 +1,5 @@
 import React from 'react'
-import { cardData } from '../data'
+
 
 export  function Card({data}) {
   return (
